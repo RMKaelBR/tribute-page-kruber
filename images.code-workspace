@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "../Tribute Page/images"
+		},
+		{
+			"name": "tribute-page",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
